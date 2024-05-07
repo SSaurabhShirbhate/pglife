@@ -14,7 +14,7 @@
                 <a href="property_list.php?city=Hyderabad">PG in Hyderabad</a>
             </div>
         </div>
-        <div class="footer-copyright">© 2022 Copyright PG Life </div>
+        <div class="footer-copyright">© 2024 Copyright PG Life -Saurabh Shirbhate</div>
     </div>
 </div>
 
