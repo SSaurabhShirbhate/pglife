@@ -49,7 +49,10 @@ Each listing on PG Life comes with detailed information, including photos, room 
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to reach out to [your email address].
-
+If you encounter any issues or have any questions, feel free to reach out to me.
+And checkout my github prox
 Happy PG hunting!
+## Check out my GitHub Profile
+
+If you find PG Life useful or interesting, please consider checking out my GitHub profile [https://github.com/SSaurabhShirbhate] for more projects and repositories. Don't forget to give PG Life a star ⭐️ if you like it!
 
